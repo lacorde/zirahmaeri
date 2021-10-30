@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'Titania';
+	src: url('Titania.woff2') format('woff2'),
+	     url('Titania.woff') format('woff'),
+	     url('Titania.ttf') format('truetype')
+}

@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'WindsorBT-Light';
+	src: url('WindsorBT-Light.woff2') format('woff2'),
+	     url('WindsorBT-Light.woff') format('woff'),
+	     url('WindsorBT-Light.ttf') format('truetype')
+}

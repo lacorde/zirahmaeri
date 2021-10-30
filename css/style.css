@@ -1,0 +1,30 @@
+/* home.html */
+
+.not-intro-page #usersite-container:not(.mobile-view) #frame-top .title-nav-container h1#page-title.page-title {
+  font-family: 'Titania';
+  font-size: 49px;
+  font-weight: 400;
+  font-style: normal;
+  color: #1F1F1E;
+  text-shadow: 0 0 2px rgb(31 31 30 / 60%);
+  text-transform: uppercase;
+  height: 40px;
+  padding-left: 12px;
+  /* New */
+  height: 50px;
+  padding-left: 15px;
+  font-weight: 900;
+}
+
+#usersite-container #page-header {
+  position: absolute;
+  max-height: 100vh;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#usersite-container .ie-flexbox-fix-wrapper {
+  position: relative;
+}

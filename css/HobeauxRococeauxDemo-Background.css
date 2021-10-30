@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'HobeauxRococeauxDemo-Background';
+	src: url('HobeauxRococeauxDemo-Background.woff2') format('woff2'),
+	     url('HobeauxRococeauxDemo-Background.woff') format('woff'),
+	     url('HobeauxRococeauxDemo-Background.ttf') format('truetype')
+}

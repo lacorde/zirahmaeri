@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'WindsorRegular';
+	src: url('WindsorRegular.woff2') format('woff2'),
+	     url('WindsorRegular.woff') format('woff'),
+	     url('WindsorRegular.ttf') format('truetype')
+}
